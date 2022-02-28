@@ -12,4 +12,4 @@ The CNN model has the architecture as below:
 - Dense
 
 ## Dataset
-The dataset from [Dogs & Cats Images](https://www.kaggle.com/chetankv/dogs-cats-images)
+The dataset from [Dogs & Cats Images](https://www.kaggle.com/chetankv/dogs-cats-images) was used to train the algorithm.
